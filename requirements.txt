@@ -1,2 +1,7 @@
-ipykernel
+pandas
+openai
+psycopg[binary]
 python-dotenv
+timescale-vector
+instructor
+anthropic
